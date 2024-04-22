@@ -1,4 +1,4 @@
-Sınavda Uyulması Gereken Kurallar
+*** Sınavda Uyulması Gereken Kurallar
 
 1.	Sınava gelirken kalem, silgi, hesap makinenizi getiriniz. Sınav anında kalem, silgi ve hesap makinesi alışverişi olmayacaktır. Programlanabilir hesap makineniz var ise sınav salonuna girmeden önce dersle ilgili metin ve programları siliniz, aksi halde kopyaya teşebbüs suçu işlemiş olursunuz.
 
